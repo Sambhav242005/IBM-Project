@@ -1,0 +1,5 @@
+console.log("str(5) + num(4) =","5"+4)
+console.log("str(5) - num(4) =","5"-4)
+console.log("str(5) - bool(true) =","5"-true)
+console.log("num(5) + bool(true) =",5+true)
+console.log("num(5) + bool(false) =",5+false)
